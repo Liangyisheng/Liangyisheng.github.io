@@ -7,29 +7,22 @@
 
 # Site settings
 title: 一声的博客
-brief-intro: Android and Python Coder
+brief-intro: java、安卓、微信小程序
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+url: "https://liangyisheng.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
-github_username:  643435675
-email: 643435675@QQ.com
-weibo_username: 3115521wh
-zhihu_username: hll643435675
-linkedIn_username: gaohaoyang
-dribbble_username:
-
-description_footer: 来自徐代龙的个人专栏！
+github_username:  liangyisheng
+email: 1370307548@QQ.com
+description_footer: 来自梁一声的博客！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+duoshuo_shortname: #lysblog
+disqus_shortname: #liangyisheng
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
